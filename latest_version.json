@@ -1,0 +1,28 @@
+{
+  "latestVersion": "2.0.0",
+  "minVersion": "1.0.0",
+  "downloadUrl": "https://github.com/UE-Studio90-Software/MC-Server-Recall/releases/MC-Server-Recall-v2.0.0.apk",
+  "releaseDate": "2026-03-25",
+  "fileSize": 55200000,
+  "changelog": "# Version 2.0.0\n\n## ✨ New Features\n• Home screen widgets\n• Image cropping for backgrounds\n• bKash payment info\n• License system with encryption\n\n## 🐛 Bug Fixes\n• Fixed Bedrock player names\n• Improved server status detection\n• Fixed image rotation issues",
+  "catalog": [
+    {
+      "version": "2.0.0",
+      "date": "2026-03-25",
+      "size": "55 MB",
+      "changes": "Widgets, Image cropping, License system"
+    },
+    {
+      "version": "1.0.1",
+      "date": "2026-02-28",
+      "size": "52 MB",
+      "changes": "Bedrock support, Premium UI"
+    },
+    {
+      "version": "1.0.0",
+      "date": "2026-02-20",
+      "size": "48 MB",
+      "changes": "Initial release"
+    }
+  ]
+}
